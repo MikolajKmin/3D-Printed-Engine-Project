@@ -1,0 +1,72 @@
+INFO: Header : Author::Unknown
+INFO: Header : Authorization::Unknown
+INFO: Header : Description::Unknown
+INFO: Header : File Name::STEP_bottle_thread.step
+INFO: Header : Implementation Level::2;1
+INFO: Header : Organization::Unknown
+INFO: Header : Originating System::Autodesk Translation Framework v14.24.0.0
+INFO: Header : Preprocessor Version::ST-DEVELOPER v20.1
+INFO: Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+INFO: Header : Time Stamp::2026-03-25T15:22:35+01:00
+INFO: Begin CAD File Read 'C:/Users/mikol/Desktop/1 - UNI/SEMESTR 6/Machine design 6/CAD_Model/NX/01_Parts/STEP_bottle_thread.step'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   1
+INFO: advanced_face ............................................:   19
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: axis2_placement_3d .......................................:   24
+INFO: b_spline_curve_with_knots ................................:   30
+INFO: b_spline_surface_with_knots ..............................:   2
+INFO: cartesian_point ..........................................:   1860
+INFO: circle ...................................................:   6
+INFO: closed_shell .............................................:   1
+INFO: colour_rgb ...............................................:   1
+INFO: cylindrical_surface ......................................:   14
+INFO: derived_unit .............................................:   1
+INFO: derived_unit_element .....................................:   2
+INFO: descriptive_representation_item ..........................:   1
+INFO: direction ................................................:   60
+INFO: edge_curve ...............................................:   48
+INFO: edge_loop ................................................:   20
+INFO: face_bound ...............................................:   1
+INFO: face_outer_bound .........................................:   19
+INFO: fill_area_style ..........................................:   1
+INFO: fill_area_style_colour ...................................:   1
+INFO: geometric_representation_context_and_global_uncertainty_a :   2
+INFO: length_unit_and_si_unit ..................................:   2
+INFO: line .....................................................:   12
+INFO: manifold_solid_brep ......................................:   1
+INFO: mass_unit_and_si_unit ....................................:   1
+INFO: measure_representation_item ..............................:   1
+INFO: mechanical_design_geometric_presentation_representation ..:   1
+INFO: oriented_edge ............................................:   96
+INFO: plane ....................................................:   3
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: presentation_style_assignment ............................:   1
+INFO: product ..................................................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation .............................:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: property_definition ......................................:   2
+INFO: property_definition_representation .......................:   2
+INFO: representation ...........................................:   2
+INFO: shape_definition_representation ..........................:   1
+INFO: shape_representation .....................................:   1
+INFO: shape_representation_relationship ........................:   1
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: styled_item ..............................................:   1
+INFO: surface_side_style .......................................:   1
+INFO: surface_style_fill_area ..................................:   1
+INFO: surface_style_usage ......................................:   1
+INFO: uncertainty_measure_with_unit ............................:   2
+INFO: vector ...................................................:   12
+INFO: vertex_point .............................................:   32
+INFO:                                                              -------
+INFO: Total                                                         2302
